@@ -1,3 +1,9 @@
+### use-effect-demo
+This is a simple demo of how the useEffect hook works.
+For more references or examples you can read the official documentation (https://reactjs.org/docs/hooks-effect.html)
+
+<hr />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
